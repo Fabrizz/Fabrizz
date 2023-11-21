@@ -24,5 +24,5 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 ### 🧱 Some projects:
 
 <img align="left" alt="EleccionesArg" width="340px" src="/assets/EARG-card.png?raw=true" style="padding-right:30px;" />
-<img align="left" alt="OnSpotify" width="3400px" src="/assets/ONSP-card.png?raw=true" style="padding-right:30px;" />
-<img align="left" alt="LiveLyrics" width="3400px" src="/assets/LILY-card.png?raw=true" style="padding-right:30px;" />
+<img align="left" alt="OnSpotify" width="340px" src="/assets/ONSP-card.png?raw=true" style="padding-right:30px;" />
+<img align="left" alt="LiveLyrics" width="340px" src="/assets/LILY-card.png?raw=true" style="padding-right:30px;" />
