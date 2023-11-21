@@ -23,6 +23,11 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 
 ### 🧱 Some projects:
 
-<img align="left" alt="EleccionesArg" width="360px" src="/assets/EARG-card.png?raw=true" style="padding-right:30px;" />
-<img align="left" alt="OnSpotify" width="360px" src="/assets/ONSP-card.png?raw=true" style="padding-right:30px;" />
-<img align="left" alt="LiveLyrics" width="360px" src="/assets/LILY-card.png?raw=true" style="padding-right:30px;" />
+[<img align="left" alt="EleccionesArg" width="380px" src="/assets/EARG-card.png?raw=true" style="padding-right:30px;" />](https://elecciones.fabriz.co)
+[<img align="left" alt="OnSpotify" width="380px" src="/assets/ONSP-card.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
+[<img align="left" alt="LiveLyrics" width="380px" src="/assets/LILY-card.png?raw=true" style="padding-right:30px;" />](ttps://github.com/Fabrizz/MMM-LiveLyrics)
+
+[![Hiden](/assets/spacer.png?raw=true)](https://fabriz.co)
+
+[<img alt="Fabrizz logo" src="https://github.com/Fabrizz/MMM-OnSpotify/assets/65259076/baee1856-e513-4523-99f8-fc59c6cd4959" width="92" align="right">](https://fabriz.co)
+<p align="right">Made with <3 by Fabrizz</p>
