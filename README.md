@@ -18,8 +18,7 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
 <br />
-
-#
+<br />
 
 ### 🧱 Some projects:
 [<img align="left" alt="EleccionesArg" width="380px" src="/assets/EARG-card.png?raw=true" style="padding-right:30px;" />](https://elecciones.fabriz.co)
