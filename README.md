@@ -3,7 +3,7 @@
 
 I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for tech and design. Currently tinkering with a Spotify app for Argentina's elections 🗳️ (approval from Spotify takes a couple of months, so I'm a little late!) and with selfhosted stuff. Also working on networking for a local SME.
 
-[![The fabrizz logo](/assets/fabrizz_logo_train_pinkred.svg?raw=true&sanitize=true "The fabrizz logo")](https://fabriz.co)
+[<img alt="Fabrizz Logo" src="/assets/fabrizz_logo_train_pinkred.svg?raw=true&sanitize=true" />](https://fabriz.co)
 
 ### 🧉 Languages and tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -25,7 +25,9 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 [<img align="left" alt="OnSpotify" width="380px" src="/assets/ONSP-card.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
 [<img align="left" alt="LiveLyrics" width="380px" src="/assets/LILY-card.png?raw=true" style="padding-right:30px;" />](ttps://github.com/Fabrizz/MMM-LiveLyrics)
 
-[![Hiden](/assets/spacer.png?raw=true)](https://fabriz.co)
+![Hidden](/assets/spacer.png?raw=true)
+
+#
 
 [<img alt="Fabrizz logo" src="https://github.com/Fabrizz/MMM-OnSpotify/assets/65259076/baee1856-e513-4523-99f8-fc59c6cd4959" width="92" align="right">](https://fabriz.co)
-<p align="right">Made with <3 by Fabrizz</p>
+<p align="left">Made with <3 by Fabrizz</p>
