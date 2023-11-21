@@ -22,7 +22,6 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 #
 
 ### 🧱 Some projects:
-
 [<img align="left" alt="EleccionesArg" width="380px" src="/assets/EARG-card.png?raw=true" style="padding-right:30px;" />](https://elecciones.fabriz.co)
 [<img align="left" alt="OnSpotify" width="380px" src="/assets/ONSP-card.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
 [<img align="left" alt="LiveLyrics" width="380px" src="/assets/LILY-card.png?raw=true" style="padding-right:30px;" />](ttps://github.com/Fabrizz/MMM-LiveLyrics)
