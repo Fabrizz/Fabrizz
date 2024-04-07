@@ -1,7 +1,7 @@
 # 🧸 Fabrizio 🧸
 **`Student`** | **`Computer Engineering`** | **`he/him`** | **`<3`** | **[fabriz.co](https://fabriz.co)**
 
-I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for tech and design. Currently tinkering with a Spotify app for Argentina's elections 🗳️ (approval from Spotify takes a couple of months, so I'm a little late!) and with selfhosted stuff. Also working on networking for a local SME.
+I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for tech and design. Im finishing my last MM2 module: [`MMM-HomeKit`](https://github.com/Fabrizz/MMM-HomeKit), that adds native homekit support to smart mirrors. Also working on networking for a local SME.
 
 [<img alt="Fabrizz Logo" src="/assets/fabrizz_logo_train_pinkred.png?raw=true" />](https://fabriz.co)
 
@@ -21,9 +21,11 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 <br />
 
 ### 🧱 Some projects:
-[<img align="left" alt="EleccionesArg" width="380px" src="/assets/EARG-card.png?raw=true" style="padding-right:30px;" />](https://elecciones.fabriz.co)
-[<img align="left" alt="OnSpotify" width="380px" src="/assets/ONSP-card.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
-[<img align="left" alt="LiveLyrics" width="380px" src="/assets/LILY-card.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-LiveLyrics)
+[<img align="left" alt="OnSpotify" width="380px" src="https://github.com/Fabrizz/Fabrizz/assets/65259076/18e33e87-14ae-44f1-91c2-42697b847b51.png" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
+[<img align="left" alt="Homekit" width="380px" src="https://github.com/Fabrizz/Fabrizz/assets/65259076/b5a1046c-c458-4ec8-99e0-f77d26fc4569.png" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-HomeKit)
+[<img align="left" alt="LiveLyrics" width="380px" src="https://github.com/Fabrizz/Fabrizz/assets/65259076/8d84ca17-be55-4fd5-b98f-c3a6dc53027d.png" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-LiveLyrics)
+[<img align="left" alt="EleccionesArg" width="380px" src="https://github.com/Fabrizz/Fabrizz/assets/65259076/9f7acf5b-c21d-4151-ba85-f45234d775cb.png" style="padding-right:30px;" />](https://elecciones.fabriz.co)
+
 
 ![Hidden](/assets/spacer.png?raw=true)
 
