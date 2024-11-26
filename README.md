@@ -20,9 +20,8 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 <br />
 <br />
 
-[<img alt="Fabrizz Blog" src="https://github.com/fabrizz/fabrizz/blob/main/assets/blog-banner.png?raw=true" />](https://articles.fabriz.co)
-
 ### 🧱 Some projects:
+[<img alt="Fabrizz Blog" src="https://github.com/fabrizz/fabrizz/blob/main/assets/blog-banner.png?raw=true" />](https://articles.fabriz.co)
 [<img align="left" alt="OnSpotify" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/ONSP.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
 [<img align="left" alt="Homekit" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/HMKT.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-HomeKit)
 [<img align="left" alt="LiveLyrics" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/LILY.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-LiveLyrics)
