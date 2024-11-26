@@ -20,6 +20,8 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 <br />
 <br />
 
+[<img alt="Fabrizz Blog" src="https://github.com/fabrizz/fabrizz/blob/main/assets/blog-banner.png?raw=true" />](https://articles.fabriz.co)
+
 ### 🧱 Some projects:
 [<img align="left" alt="OnSpotify" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/ONSP.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
 [<img align="left" alt="Homekit" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/HMKT.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-HomeKit)
@@ -27,8 +29,6 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 [<img align="left" alt="EleccionesArg" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/EARG.png?raw=true" style="padding-right:30px;" />](https://elecciones.fabriz.co)
 
 <br />
-
-[<img alt="Fabrizz Blog" src="https://github.com/fabrizz/fabrizz/blob/main/assets/blog-banner.png?raw=true" />](https://articles.fabriz.co)
 
 ![Hidden](https://github.com/fabrizz/fabrizz/blob/main/assets/spacer.png?raw=true)
 
