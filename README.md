@@ -20,6 +20,7 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 <br />
 <br />
 
+### 📰 Articles:
 [<img alt="Fabrizz Blog" src="https://github.com/fabrizz/fabrizz/blob/main/assets/blog-banner.png?raw=true" />](https://articles.fabriz.co)
 
 ### 🧱 Some projects:
