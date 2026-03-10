@@ -1,4 +1,4 @@
-# 🧸 Fabrizio 🧸
+# 🧸 Fabrizio 🧸🇦🇷
 **`Student`** | **`Computer Engineering`** | **`he/him`** | **`<3`** | **[fabriz.co](https://fabriz.co)**
 
 I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for tech and design. Im currently doing some uni projects, trying stuff related to ZebraZPL/Printers, and I just updated **[MMM-OnSpotify](https://github.com/Fabrizz/MMM-OnSpotify)** making it easier to use.
