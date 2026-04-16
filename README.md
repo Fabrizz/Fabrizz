@@ -4,6 +4,7 @@
 I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for tech and design. Im currently doing some uni projects, trying stuff related to ZebraZPL/Printers, and I just updated **[MMM-OnSpotify](https://github.com/Fabrizz/MMM-OnSpotify)** making it easier to use.
 
 Also working on networking, electrical for a local SME.
+https://www.linkedin.com/in/fabrizz
 
 [<img alt="Fabrizz Logo" src="https://github.com/fabrizz/fabrizz/blob/main/assets/logo_train.png?raw=true" />](https://fabriziob.com)
 
