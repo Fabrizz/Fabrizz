@@ -6,7 +6,7 @@ I'm a Computer Engineering student from _Argentina_ 🇦🇷, with a flair for t
 Also working on networking, electrical for a local SME.
 https://www.linkedin.com/in/fabrizz
 
-[<img alt="Fabrizz Logo" src="https://github.com/fabrizz/fabrizz/blob/main/assets/logo_train.png?raw=true" />](https://fabriziob.com)
+[<img alt="Fabrizz Logo" src="https://github.com/fabrizz/fabrizz/blob/main/assets/logo_train.png?raw=true&v=2" />](https://fabriziob.com)
 
 ### 🧉 Languages and tools
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:7px;" />
@@ -31,15 +31,15 @@ https://www.linkedin.com/in/fabrizz
 <br />
 
 ### 🧱 Some projects:
-[<img align="left" alt="Carrear" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/CAAR.png?raw=true" style="padding-right:30px;" />](https://carrear.fabriziob.com)
-[<img align="left" alt="Xa Viewer & Zpl Renderer JS" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/XZPL.png?raw=true" style="padding-right:30px;" />](https://xaviewer.fabriziob.com)
-[<img align="left" alt="OnSpotify" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/ONSP.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
-[<img align="left" alt="Homekit" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/HMKT.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-HomeKit)
-[<img align="left" alt="LiveLyrics" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/LILY.png?raw=true" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-LiveLyrics)
-[<img align="left" alt="EleccionesArg" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/EARG.png?raw=true" style="padding-right:30px;" />](https://elecciones.fabriziob.com)
+[<img align="left" alt="Carrear" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/CAAR.png?raw=true&v=2" style="padding-right:30px;" />](https://carrear.fabriziob.com)
+[<img align="left" alt="Xa Viewer & Zpl Renderer JS" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/XZPL.png?raw=true&v=2" style="padding-right:30px;" />](https://xaviewer.fabriziob.com)
+[<img align="left" alt="OnSpotify" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/ONSP.png?raw=true&v=2" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
+[<img align="left" alt="Homekit" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/HMKT.png?raw=true&v=2" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-HomeKit)
+[<img align="left" alt="LiveLyrics" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/LILY.png?raw=true&v=2" style="padding-right:30px;" />](https://github.com/Fabrizz/MMM-LiveLyrics)
+[<img align="left" alt="EleccionesArg" width="380px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/EARG.png?raw=true&v=2" style="padding-right:30px;" />](https://elecciones.fabriziob.com)
 ![Hidden](https://github.com/fabrizz/fabrizz/blob/main/assets/spacer.png?raw=true)
 
-[<img alt="Fabrizz Blog" src="https://github.com/fabrizz/fabrizz/blob/main/assets/blog-site-banner.png?raw=true"  width="780px" />](https://fabriziob.com)
+[<img alt="Fabrizz Blog" src="https://github.com/fabrizz/fabrizz/blob/main/assets/blog-site-banner.png?raw=true&v=2"  width="780px" />](https://fabriziob.com)
 
 #
 
