@@ -31,7 +31,7 @@ https://www.linkedin.com/in/fabrizz
 <br />
 
 ### 🧱 Some projects:
-[<img align="left" alt="Carrear" width="372px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/CAAR.png?raw=true&v=2" style="padding-right:28px;" />](https://carrear.fabriziob.com)
+[<img align="left" alt="Carrear" width="372px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/CAAR.png?raw=true&v=2" style="padding-right:28px;" />](https://github.com/Fabrizz/carrear-public)
 [<img align="left" alt="Xa Viewer & Zpl Renderer JS" width="372px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/XZPL.png?raw=true&v=3" style="padding-right:28px;" />](https://xaviewer.fabriziob.com)
 [<img align="left" alt="OnSpotify" width="372px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/ONSP.png?raw=true&v=2" style="padding-right:28px;" />](https://github.com/Fabrizz/MMM-OnSpotify)
 [<img align="left" alt="Homekit" width="372px" src="https://github.com/fabrizz/fabrizz/blob/main/assets/HMKT.png?raw=true&v=2" style="padding-right:28px;" />](https://github.com/Fabrizz/MMM-HomeKit)
